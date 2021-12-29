@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Agus Abdul Malik 👨‍💻
 
-I am a Full Stack Software Developer and Machine-Learning enthusiast. I am passionate about technologies and love to learn new things.
+I am a Full Stack Software Developer and technologies enthusiast. I am passionate about technologies and love to learn new things.
 
 ### 🔭 Have a look at my latest [article](https://malikagus.blogspot.com/).
 
